@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/cineplex/static/css/main.0d68edf4.css",
-    "main.js": "/cineplex/static/js/main.1cdae457.js",
-    "index.html": "/cineplex/index.html",
-    "static/media/search.svg": "/cineplex/static/media/search.b767bc532c98b7adeca0005d07228476.svg",
-    "main.0d68edf4.css.map": "/cineplex/static/css/main.0d68edf4.css.map",
-    "main.1cdae457.js.map": "/cineplex/static/js/main.1cdae457.js.map"
+    "main.css": "/mehraankush/cineplex/static/css/main.0d68edf4.css",
+    "main.js": "/mehraankush/cineplex/static/js/main.d462395c.js",
+    "index.html": "/mehraankush/cineplex/index.html",
+    "static/media/search.svg": "/mehraankush/cineplex/static/media/search.b767bc532c98b7adeca0005d07228476.svg",
+    "main.0d68edf4.css.map": "/mehraankush/cineplex/static/css/main.0d68edf4.css.map",
+    "main.d462395c.js.map": "/mehraankush/cineplex/static/js/main.d462395c.js.map"
   },
   "entrypoints": [
     "static/css/main.0d68edf4.css",
-    "static/js/main.1cdae457.js"
+    "static/js/main.d462395c.js"
   ]
 }
